@@ -182,5 +182,4 @@ class BookDetails extends Component {
     )
   }
 }
-
 export default BookDetails
